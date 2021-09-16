@@ -4,21 +4,21 @@
             "id": 0,
             "description": "webchapter nft 1",
             "external_url": "https://asb.co.nz",
-            "image": "https://www.anz.co.nz/content/dam/anzconz/media/logo/logo-anz.svg",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "webchapternft1"
         },
         {
             "id": 1,
             "description": "webchapter nft 2",
             "external_url": "https://asb.co.nz",
-            "image": "https://www.anz.co.nz/content/dam/anzconz/media/logo/logo-anz.svg",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "webchapternft2"
         },
         {
             "id": 2,
             "description": "webchapter nft 3",
             "external_url": "https://asb.co.nz",
-            "image": "https://www.anz.co.nz/content/dam/anzconz/media/logo/logo-anz.svg",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "name": "webchapternft3"
         }
     ]
